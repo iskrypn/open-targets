@@ -21,7 +21,7 @@ from open_targets.adapter.expression import (
     ToStringExpression,
     TransformExpression,
 )
-from open_targets.adapter.licence import get_datasource_license
+from open_targets.adapter.license import get_datasource_license
 
 CURIE_SEPARATORS = [":", "_", "/"]
 
